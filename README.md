@@ -1,2 +1,3 @@
-# gateway
+# Gateway
+
 An HTTP API Gateway

@@ -1,0 +1,9 @@
+language: go
+sudo: true
+dist: xenial
+
+go:
+  - 1.13
+  - 1.14
+
+script: go build  ./...
